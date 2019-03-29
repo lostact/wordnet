@@ -1,6 +1,6 @@
 # Requirements #
 * Python3
-* Termcolor (pip3 install termcolor)
+* Termcolor (`pip3 install termcolor`)
 
 Usage: `./wordnik.py`
 
