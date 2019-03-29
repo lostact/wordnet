@@ -35,7 +35,7 @@ def info_extractor(gls,word):
 
 lookup_word=True
 while lookup_word:
-	lookup_word=input(colored("\nPlease enter your word (enter for previous): ",'grey'))
+	lookup_word=input(colored("\nPlease enter your word (Enter for previous): ",'grey'))
 	if not lookup_word:
 		lookup_word=last_lookup_word
 		print('\n'+lookup_word)
