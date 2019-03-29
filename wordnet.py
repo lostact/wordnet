@@ -2,7 +2,7 @@ import re
 from difflib import SequenceMatcher as diff
 from termcolor import colored
 
-synonyms_gls = "original.txt"
+synonyms_gls = "roget.txt"
 translation_gls = "salaty.txt"
 
 
